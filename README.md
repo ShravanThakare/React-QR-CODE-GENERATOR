@@ -2,7 +2,7 @@
 
 # QR Code Generator with React and Tailwind CSS
 
-![Project Image](url_to_project_image)
+![Project Image](https://github.com/ShravanThakare/React-QR-CODE-GENERATOR/assets/108409480/f16da460-e6a5-4ee2-bee3-0f83ae73266f.jpg)
 
 A simple and customizable QR Code Generator built with React and styled using Tailwind CSS.
 
